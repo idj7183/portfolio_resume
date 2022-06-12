@@ -13,7 +13,7 @@
 ### PDF 파일
 [PDF_resume](https://github.com/idj7183/portfolio_resume/blob/main/file/%EC%9E%84%EB%8F%99%EC%A7%84_Portfolio.pdf)
 ### 원본
-[DOCS 파일](https://github.com/idj7183/portfolio_resume/blob/main/file/%EC%9D%B4%EB%A0%A5%EC%84%9C.docx)
+[PPTX 파일](https://github.com/idj7183/portfolio_resume/blob/main/file/%EC%9E%84%EB%8F%99%EC%A7%84_Portfolio.pptx)
 * * *
 # 이력서
 ### 구성
@@ -34,4 +34,4 @@
 ### PDF 파일
 [PDF_resume](https://github.com/idj7183/portfolio_resume/blob/main/file/%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
 ### 원본
-[PPTX 파일](https://github.com/idj7183/portfolio_resume/blob/main/file/%EC%9E%84%EB%8F%99%EC%A7%84_Portfolio.pptx)
+[DOCS 파일](https://github.com/idj7183/portfolio_resume/blob/main/file/%EC%9D%B4%EB%A0%A5%EC%84%9C.docx)
